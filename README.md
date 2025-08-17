@@ -69,6 +69,8 @@ flutter run
 
 ## 5. Usage Instructions
 
+![WhatsApp Image 2025-08-17 at 06 22 40_67c6b3de](https://github.com/user-attachments/assets/6b4e9faf-61cd-4685-bace-bf82b031818d)
+
 This section will be updated later with screenshots and detailed instructions on how to use the app's features.
 
 ---
